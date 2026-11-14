@@ -1,0 +1,16 @@
+[
+  {"title":"Accueil","url":"/","blurb":"Guides GTA 6 en français, faits vérifiés, pensés pour le cell.","tags":["accueil","guide léonida","gta 6","gta vi"]},
+  {"title":"Guides","url":"/guides/","blurb":"Index des guides : argent, missions, trophées, véhicules, armes, collectibles, codes.","tags":["guides","astuces"]},
+  {"title":"Faire de l’argent","url":"/guides/argent.html","blurb":"Astuces pour faire de l’argent en jeu. Section bientôt mise à jour dès la sortie.","tags":["argent","cash","dollar","thunes"]},
+  {"title":"Missions","url":"/guides/missions.html","blurb":"Guides de missions et de l’histoire. Bientôt, dès la sortie.","tags":["missions","histoire","campagne"]},
+  {"title":"Trophées","url":"/guides/trophees.html","blurb":"Liste des trophées et succès. Bientôt, dès la sortie.","tags":["trophées","succès","achievements","platinium","platine"]},
+  {"title":"Véhicules","url":"/guides/vehicules.html","blurb":"Chars, motos, bateaux et autres véhicules. Bientôt, dès la sortie.","tags":["véhicules","chars","voitures","voiture","moto"]},
+  {"title":"Armes","url":"/guides/armes.html","blurb":"Armes et emplacements. Bientôt, dès la sortie.","tags":["armes","guns","fusil"]},
+  {"title":"Collectibles","url":"/guides/collectibles.html","blurb":"Objets à collectionner et secrets. Bientôt, dès la sortie.","tags":["collectibles","secrets","collection"]},
+  {"title":"Codes de triche","url":"/guides/codes.html","blurb":"Codes de triche, s’il y en a. Rien n’est confirmé avant la sortie.","tags":["codes","cheats","triche","astuces"]},
+  {"title":"Carte","url":"/carte/","blurb":"Future carte interactive de Léonida et Vice City.","tags":["carte","map","leonida","vice city"]},
+  {"title":"Actus","url":"/actus/","blurb":"Actualités vérifiées sur Grand Theft Auto VI, avec sources officielles.","tags":["actus","news","sortie","date","préchargement"]},
+  {"title":"Ce qu’on sait du jeu","url":"/le-jeu/","blurb":"Date de sortie, plateformes, Jason Duval, Lucia Caminos, Vice City et Léonida.","tags":["jason","lucia","vice city","léonida","personnages","plateformes","ps5","xbox"]},
+  {"title":"À propos","url":"/a-propos/","blurb":"Qui est derrière Guide Léonida, un site de fans non officiel.","tags":["à propos","contact","fans"]},
+  {"title":"Politique de confidentialité","url":"/confidentialite/","blurb":"Comment le site traite tes données, les cookies et la pub future.","tags":["confidentialité","vie privée","cookies","adsense"]}
+]

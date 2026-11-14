@@ -1,0 +1,15 @@
+{
+  "name": "Guide Léonida — Guides GTA 6",
+  "short_name": "Guide Léonida",
+  "description": "Guides Grand Theft Auto VI en français, faits vérifiés, pensés pour le cell. Site de fans non officiel.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#08060f",
+  "theme_color": "#08060f",
+  "lang": "fr-CA",
+  "icons": [
+    { "src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

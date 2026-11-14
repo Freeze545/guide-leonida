@@ -1,0 +1,4 @@
+Syne is a trademark of The Syne Project Authors.
+This font is included under the SIL Open Font License, Version 1.1.
+Project: https://github.com/googlefonts/syne
+License text: https://openfontlicense.org/open-font-license-official-text/

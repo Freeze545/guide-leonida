@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://guide-leonida.onrender.com/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://guide-leonida.onrender.com/guides/</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://guide-leonida.onrender.com/guides/argent.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://guide-leonida.onrender.com/guides/missions.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://guide-leonida.onrender.com/guides/trophees.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://guide-leonida.onrender.com/guides/vehicules.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://guide-leonida.onrender.com/guides/armes.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://guide-leonida.onrender.com/guides/collectibles.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://guide-leonida.onrender.com/guides/codes.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://guide-leonida.onrender.com/carte/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://guide-leonida.onrender.com/actus/</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://guide-leonida.onrender.com/le-jeu/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://guide-leonida.onrender.com/a-propos/</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://guide-leonida.onrender.com/confidentialite/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+</urlset>
